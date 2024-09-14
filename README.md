@@ -1,6 +1,6 @@
-# Open MCT Scripting Tool
+# Open MCT Scripting Tool - LEGACY
 
-Last updated: 12 Apr 2024
+Last updated: 13 Sep 2024
 
 Allows large scale creation of a variety of Open MCT views, many with integrated Conditional styling. Source files include tabular CSV, PRIDE .prl files, and Python ground control scripts (GCS). The tool outputs JSON files that are imported into Open MCT.
 
